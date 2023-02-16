@@ -1,14 +1,33 @@
+import './App.css'; 
+import 'react-toastify/dist/ReactToastify.css';
 
-import './App.css';
-import NavBar from './componentes/NavBar/NavBar';
-import ItemListContainer from './componentes/ItemListContainer/ItemListContainer';
+//React Router
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
+//Toastify
+import { ToastContainer} from 'react-toastify';
+
+//Components 
+import { Navbar } from './componentes/NavBar/NavBar';
+import { ItemListContainer } from './componentes/ItemListContainer/ItemListContainer';
+import { ItemDetailContainer } from './componentes/ItemDetailContainer/ItemDetailContainer';
+import { Checkout } from './componentes/Checkout/Checkout';
+import { Cart } from './Cart/Cart';
 export const App = () => {
   return (
-    <div>
-      <NavBar/>
-      <ItemListContainer parrafo={"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."}/>
-    </div>
-  );
+    <>
+      <BrowserRouter>
+        <Navbar/>
+        <Routes>
+          <Route path='/' element={<ItemListContainer/>}/>
+          <Route path='/category/:idCategoria' element={<ItemListContainer/>}/>
+          <Route path='/item/:id' element={<ItemDetailContainer/>}/>
+          <Route path='/checkout' element={<Checkout/>}/>
+          <Route path='/cart' element={<Cart/>}/>
+        </Routes>
+        <ToastContainer/>   
+      </BrowserRouter>  
+    </>
+  )
 }
 

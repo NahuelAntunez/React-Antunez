@@ -1,0 +1,91 @@
+{
+    "id":1,
+    "idCategoria" : 1,
+    "nombre" : "Camisa Hombre m1",
+    "marca" : "Ao",
+    "modelo": "camisa roja",
+    "precio": 6000,
+    "stock": 40,
+    "img" : "camisa.jpg"
+}
+{
+    "id":2,
+    "idCategoria" : 1,
+    "nombre" : "Camisa Hombre m2",
+    "marca" : "Ao",
+    "modelo": "camisa blanca",
+    "precio": 5000,
+    "stock": 40,
+    "img" : "camisa2.jpg"
+}
+{
+    "id":3,
+    "idCategoria" : 1,
+    "nombre" : "Camisa Hombre m3",
+    "marca" : "Ao",
+    "modelo": "camisa azul",
+    "precio": 6000,
+    "stock": 40,
+    "img" : "camisa3.jpg"
+}
+{
+    "id":4,
+    "idCategoria" : 2,
+    "nombre" : "Blusa Mujer 1",
+    "marca" : "Ao",
+    "modelo": "blusa ",
+    "precio": 3000,
+    "stock": 40,
+    "img" : "blusa.jpg"
+}
+{
+    "id":5,
+    "idCategoria" : 2,
+    "nombre" : "Blusa Mujer 2",
+    "marca" : "Ao",
+    "modelo": "blusa ",
+    "precio": 4500,
+    "stock": 40,
+    "img" : "blusa2.jpg"
+}
+{
+    "id":6,
+    "idCategoria" : 2,
+    "nombre" : "Blusa Mujer 3",
+    "marca" : "Ao",
+    "modelo": "blusa ",
+    "precio": 3500,
+    "stock": 40,
+    "img" : "blusa3.jpg"
+}
+{
+    "id":7,
+    "idCategoria" : 3,
+    "nombre" : "niñe 1",
+    "marca" : "Ao",
+    "modelo": "blusa ",
+    "precio": 2000,
+    "stock": 40,
+    "img" : "niñe1.jpg"
+}
+{
+    "id":8,
+    "idCategoria" : 3,
+    "nombre" : "niñe 2",
+    "marca" : "Ao",
+    "modelo": "blusa ",
+    "precio": 2500,
+    "stock": 40,
+    "img" : "niñe2.jpg"
+}
+{
+    "id":9,
+    "idCategoria" : 3,
+    "nombre" : "niñe 3",
+    "marca" : "Ao",
+    "modelo": "blusa ",
+    "precio": 10,
+    "stock": 40,
+    "img" : "niñe3.jpg"
+}
+

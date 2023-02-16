@@ -1,0 +1,89 @@
+camisa roja
+Tipo de manga: Larga
+Ocasiones: Casual
+Material: Algodón
+Cuello: Cuello americano
+Temporada de lanzamiento: Primavera/Verano
+TALLE S sisa 53cm /largo 64cm
+TALLE M sisa 54cm /largo 66cm
+TALLE L sisa 56cm /largo 69cm
+TALLE XL sisa 59cm /largo 70cm
+
+camisa blanca
+Tipo de manga: Larga
+Ocasiones: Casual
+Material: Algodón/Poliéster
+Cuello: Cuello americano
+
+camisa azul
+Tipo de manga: Larga
+Ocasiones: Formal
+Material: Algodón/Poliéster
+Cuello: Clásico
+
+blusa
+Material de la blusa: Algodón
+Tipo de manga: Larga
+Temporada de lanzamiento: Primavera/Verano
+Talle	Busto	Cadera	Largo
+M	96 - 100 cm	108 - 112 cm	68 - 74 cm
+M/L	102 cm	110 - 120 cm	70 - 74 cm
+L	108 cm	116 - 122 cm	70 - 76 cm
+XL	112 cm	120 - 132 cm	70 - 76 cm
+XXL	114 - 122 cm	126 - 136 cm	72 - 78 cm
+
+blusa2
+Marca	ALARA.SHOP
+Modelo	424 - Uma
+Género	Mujer
+Medidas en centímetros:
+L- Contorno busto 98- Contorno cadera 108- Largo 62
+XL- Contorno busto 104- Contorno cadera 114- Largo 64
+XXL- Contorno busto 110- Contorno cadera 120- Largo 65
+
+blusa3
+Marca	ModaTendenciaUrbana
+Modelo	MUSCULOSA BLUSA FIBRANA ACAMPANADA
+Género	Mujer
+*ÚNICO*(S)(M)(L)(XL)	100 cm	124 cm	68 cm	110 cm
+
+niñe
+Es deportiva: No
+Usos recomendados: todouso
+Tipo de tela: Spun
+Composición: Spun
+Material principal: Poliéster
+Tipo de manga: Corta
+Tipo de cuello: Redondo
+Unidades por envase: 1
+Talle	Busto	Largo
+6	64 cm	44 cm
+8	68 cm	45 cm
+10	72 cm	46 cm
+12	76 cm	48 cm
+14	80 cm	51 cm
+16	84 cm	53 cm
+
+niñe2
+Marca	Yakka
+Modelo	Remera UV
+Género	Niños
+Tipo de prenda	Remera
+Diseño de la tela	Liso
+Talle	Pecho	Manga	Largo
+1	50 cm	31 cm	34 cm
+2	54 cm	34 cm	37,5 cm
+4	58 cm	38 cm	40 cm
+6	62 cm	41 cm	43 cm
+8	66 cm	44 cm	47 cm
+10	70 cm	47 cm	51 cm
+12	74 cm	50 cm	53 cm
+14	76 cm	51 cm	56 cm
+
+niñe3
+Marca	De Fábrica
+Modelo	Remera
+Género	Sin género
+Tipo de prenda	Remera
+Diseño de la tela	Liso
+
